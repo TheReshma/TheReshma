@@ -12,14 +12,15 @@
 <br />
 <br />
 
-![](https://user-images.githubusercontent.com/70228821/155378332-1c9ba1d3-c9c8-41a9-9ad8-4a2644a32750.png)
+![](https://user-images.githubusercontent.com/70228821/155390073-f42ff43f-6944-43a0-a8dd-6be3e6685220.png)
+
 
 ### About Me : 
 
 - I'm a Full-stack developer from Mumbai, India. 
-- I am passionate about Competitive Coding , Open Source Development & Web Development .
-- I got to know about Blockchain when I was in class 10 ( in 2016 ) but I started Blockchain Development 6 years later in 2022 .
-- I happen to be a Bibliophile & a Math-Junkie .
+- I am passionate about Competitive Coding , Open Source Development & Web Development.
+- I got to know about Blockchain when I was in class 10 ( in 2016 ) but I started Blockchain Development 6 years later in 2022.
+- I happen to be a Bibliophile & a Math-Junkie.
 
 
 ---
@@ -47,8 +48,6 @@
 ### How Often do I code :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheReshma&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheReshma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
