@@ -19,7 +19,6 @@
 
 - I'm a Full-stack developer from Mumbai, India. 
 - I am passionate about Competitive Coding , Open Source Development & Web Development.
-- I got to know about Blockchain when I was in class 10 ( in 2016 ) but I started Blockchain Development 6 years later in 2022.
 - I happen to be a Bibliophile & a Math-Junkie.
 - Hit me up on Twitter if you are looking for a team mate to participate in blockchain hackathons.
 
