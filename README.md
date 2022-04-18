@@ -25,6 +25,10 @@
 
 ---
 
+### Hackathons :
+
+- Supabase 2022 with 
+
 ### Tech Stack :
 
 <p>
