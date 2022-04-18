@@ -27,7 +27,7 @@
 
 ### Hackathons :
 
-- Supabase 2022 with 
+- Winner : [Supabase 2022](https://www.madewithsupabase.com/bring-the-func) with [3lLobo](https://github.com/3lLobo/)
 
 ### Tech Stack :
 
