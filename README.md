@@ -12,8 +12,6 @@
 <br />
 <br />
 
-![](https://user-images.githubusercontent.com/70228821/155390073-f42ff43f-6944-43a0-a8dd-6be3e6685220.png)
-
 
 ### About Me : 
 
