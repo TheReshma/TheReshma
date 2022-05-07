@@ -47,7 +47,7 @@
 </p>
 
 ---
-### How Often do I code :
+### GitHub Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheReshma&theme=dark&background=000000)](https://git.io/streak-stats)
 
