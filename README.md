@@ -1,4 +1,4 @@
-### This is Reshma ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### Hey, this is Reshma.
 
 <a href="https://www.linkedin.com/in/reshmashaik3011/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
