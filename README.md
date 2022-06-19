@@ -17,9 +17,6 @@
 
 - I'm a Full-stack developer from Mumbai, India. 
 - I am passionate about Competitive Coding , Open Source Development , Blockchain & Web Development.
-- I happen to be a Bibliophile & a Math-Junkie.
-- Hit me up on Twitter if you are looking for a team mate to participate in blockchain hackathons.
-
 
 ---
 
