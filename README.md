@@ -16,7 +16,7 @@
 ### About Me : 
 
 - I'm a Full-stack developer from Mumbai, India. 
-- I am passionate about Competitive Coding , Open Source Development , Blockchain & Web Development.
+- I am passionate about Open Source Development , Blockchain & Web Development.
 
 ---
 
